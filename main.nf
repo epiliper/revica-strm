@@ -1,12 +1,13 @@
 #!/usr/bin/env nextflow
 /*
    ========================================================================================
-   REVICA
+   revica-strm
    ========================================================================================
    Github Repo:
-https://github.com/asereewit/revica
+   https://github.com/greninger-lab/revica-strm
 
 Author:
+Eli Piliper <epil02@uw.edu>
 Jaydee Sereewit <aseree@uw.edu>
 Alex L Greninger <agrening@uw.edu>
 UW Medicine | Virology

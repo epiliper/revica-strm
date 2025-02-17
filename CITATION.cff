@@ -1,12 +1,15 @@
 message: "If you use this software, please cite it as below."
-title: "Revica"
-abstract: Revica is a reference-based viral consensus genome assembly pipeline
+title: "revica-strm"
+abstract: revica-strm is an accelerated reference-based viral consensus genome assembly pipeline based on the original revica
 authors:
+  - family-names: Piliper
+    given-names: Eli
+    orcid: https://orcid.org/0009-0005-9278-3907
   - family-names: Sereewit
     given-names: Jaydee
     orcid: https://orcid.org/0000-0002-7937-6398
   - family-names: Greninger
     given-names: Alexander 
     orcid: https://orcid.org/0000-0002-7443-0527
-date-released: 2022-04-26
-repository-code: https://github.com/greninger-lab/revica
+date-released: 2025-02-18
+repository-code: https://github.com/greninger-lab/revica-strm
